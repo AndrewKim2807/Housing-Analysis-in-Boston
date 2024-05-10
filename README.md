@@ -1,21 +1,15 @@
+<h1 align="center">Boston Housing Analysis</h1>
+</div>
 
-# Boston Housing Analysis
+<br/>
 
-The "Boston Housing Analysis" project aims to examine numerous factors that impact housing prices in Boston.
+<div align="center">
+  <a href="#"><img alt="My Github" src="https://img.shields.io/badge/Under%20Repairation-8A2BE2"></a>
+  <a href="https://github.com/AndrewKim2807"><img alt="My Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+  <a href="https://github.com/AndrewKim2807/Housing-Analysis-in-Boston"><img alt="License" src="https://img.shields.io/badge/License-MIT-red"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
+</div>
 
-## Table of Contents
-- Introduction
-- Dataset
+<br/>
 
-### Introduction
-It is very important for both the homebuyers an real estate investors to understand all the elements that influence property prices. By using data analytic tools, this initiative tries to find the insights and trends in the Boston housing market. We can learn and gain the links between various variables and house prices by analysing the dataset.
-
-### Dataset
-The dataset used for this analysis is the Boston Housing Dataset provided in Kaggle.
-
- - [The Boston Housing Dataset](https://www.kaggle.com/datasets/altavish/boston-housing-dataset)
-
-The dataset contains 506 observations and 14 variables. In this dataset however, It contains missing value. So data cleaning was required.
-
-
-***TO BE UPDATED SOON***
